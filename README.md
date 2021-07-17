@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>I am Muhammad Rizwan - Fullstack Developer with the experience of 2 years in the field.</h2>
+<h2>I am Muhammad Rizwan - Fullstack Developer with the experience of 3 years in the field.</h2>
 
 - 🔭 I’m currently working with Digital Dividend as Fullstack Engineer
 - 🌱 I’m currently learning new DevOps technologies
