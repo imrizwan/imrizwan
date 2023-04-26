@@ -15,3 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=imrizwan&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imrizwan&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NajamShehzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
